@@ -1,0 +1,1 @@
+{ "name": "usage-limits", "version": "0.4.0", "description": "Постоянная строка с лимитами Claude: 5 часов и неделя, проценты и время сброса", "types": "./types/index.d.ts" }

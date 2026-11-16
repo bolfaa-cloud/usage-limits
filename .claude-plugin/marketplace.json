@@ -1,0 +1,5 @@
+{
+  "name": "usage-limits-local",
+  "owner": { "name": "bolfaa-cloud" },
+  "plugins": [{ "name": "usage-limits", "source": "./" }]
+}
